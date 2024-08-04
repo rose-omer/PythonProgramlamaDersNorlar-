@@ -6,7 +6,7 @@ Bu repo, Python programlama dili hakkında temel bilgiler içermektedir.
 - [Veri Tipleri](#veri-tipleri)
 - [Nesne Yönelimli Programlama (OOP)](#nesne-yonelimli-programlama-oop)
 - [Fonksiyonlar](#fonksiyonlar)
-- Döngüler
+- [Döngüler]
 - [NumPy](#numpy)
 - [Pandas](#pandas)
 
