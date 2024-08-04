@@ -6,7 +6,7 @@ Bu repo, Python programlama dili hakkında temel bilgiler içermektedir.
 - [Veri Tipleri](#veri-tipleri)
 - [Nesne Yönelimli Programlama (OOP)](#nesne-yonelimli-programlama-oop)
 - [Fonksiyonlar](#fonksiyonlar)
-- [Döngüler]
+- [Döngüler](#döngüler)
 - [NumPy](#numpy)
 - [Pandas](#pandas)
 
@@ -22,6 +22,9 @@ Python'da nesne yönelimli programlama yaklaşımı kullanılabilir. Sınıflar,
 
 ## Fonksiyonlar
 Python'da fonksiyonlar, belirli bir görevi yerine getiren tekrar kullanılabilir kod blokları olarak tanımlanır. `def` anahtar sözcüğü kullanılarak fonksiyonlar oluşturulur.
+
+## Döngüler
+Python'da `for` ve `while` döngüleri kullanılarak tekrarlayan işlemler gerçekleştirilebilir. Döngüler, verilen bir koşul sağlandığı sürece belirli bir kod bloğunu tekrar çalıştırmanızı sağlar.
 
 ## NumPy
 NumPy, Python'da bilimsel hesaplamalar yapmak için kullanılan popüler bir kütüphanedir. Çok boyutlu diziler (arrays), matris işlemleri, Fourier dönüşümleri, rastgele sayı üretimi gibi işlevler sunar.
